@@ -10,6 +10,8 @@ Hey, folks!
 
 What about some basic data science? In this small simple projects I demonstrate one of the basic concepts of data science, the correlation coefficient or Pearson correlation.
 
+There are also some important line codes involving data cleaning that I think is very very important. Don't ignore it.
+
 <div align="center"><img src=data_image/boxplot_car_price.png></div>
 
 <div align="center"><img src=data_image/boxplot_to_distribution_price_drivewheels.png></div>
