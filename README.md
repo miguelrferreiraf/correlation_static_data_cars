@@ -25,3 +25,5 @@ Concepts approached by this code includes:
 <div align="center"><img src=data_image/boxplot_to_distribution_price_drivewheels.png></div>
 
 <div align="center"><img src=data_image/matrix_scatter_plot_columns.png></div>
+
+<div align="center"><img src=data_image/correlation_heatmap.PNG></div>
