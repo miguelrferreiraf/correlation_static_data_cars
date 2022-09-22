@@ -16,6 +16,13 @@ Concepts approached by this code includes:
 
 ### Distribution
 
+Basic concept involving the amount of data from a specific feature for another specific feature:
+
+```
+#distribution plot
+sns.FacetGrid(data,height=5).map(sns.histplot,"height").add_legend()
+```
+
 <div align="center"><img src=data_image/distribution_plot.png></div>
 
 ### Distribution through boxplot
