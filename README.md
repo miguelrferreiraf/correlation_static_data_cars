@@ -31,10 +31,14 @@ sns.FacetGrid(data,height=5).map(sns.histplot,"height").add_legend()
 
 <div align="center"><img src=data_image/boxplot_to_distribution_price_drivewheels.png></div>
 
-### Multivariate data plot
+### Multivariate analysis
+
+Consists in a analysis of several correlations; usually we define by multivariate when it's made with more than two variables.
 
 <div align="center"><img src=data_image/matrix_scatter_plot_columns.png></div>
 
 ### Correlation coefficient
+
+Finnaly, the correlation coefficient allow us to plot all correlation among all features. 
 
 <div align="center"><img src=data_image/correlation_heatmap.PNG></div>
