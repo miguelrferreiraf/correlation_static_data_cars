@@ -1,6 +1,6 @@
 # Analysing correlation between data features :notebook::book:
 
-## Basic data science :chart_with_upwards_trend:📊 :bar_chart:
+## Basic data science :chart_with_upwards_trend:📊 
 
 <div align="center"><img src=data_image/vector-cars-collection-vehicles-flat-style_1284-44161.jpg width=50%></div>
 
