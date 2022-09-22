@@ -1,4 +1,4 @@
-# Analysing correlation betwenn data features
+# Analysing correlation between data features
 
 ## Basic data science
 
