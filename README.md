@@ -12,7 +12,13 @@ What about some basic data science? In this small simple projects I demonstrate 
 
 There are also some important line codes involving data cleaning that I think is very very important. Don't ignore it.
 
-<div align="center"><img src=data_image/boxplot_car_price.png></div>
+Concepts approached by this code includes:
+
+### Distribution
+
+<div align="center"><img src=data_image/distribution_plot.png></div>
+
+### Distribution through boxplot
 
 <div align="center"><img src=data_image/boxplot_car_price.png></div>
 
