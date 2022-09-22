@@ -14,6 +14,8 @@ There are also some important line codes involving data cleaning that I think is
 
 <div align="center"><img src=data_image/boxplot_car_price.png></div>
 
+<div align="center"><img src=data_image/boxplot_car_price.png></div>
+
 <div align="center"><img src=data_image/boxplot_to_distribution_price_drivewheels.png></div>
 
 <div align="center"><img src=data_image/matrix_scatter_plot_columns.png></div>
