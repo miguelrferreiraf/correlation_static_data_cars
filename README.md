@@ -31,6 +31,10 @@ sns.FacetGrid(data,height=5).map(sns.histplot,"height").add_legend()
 
 <div align="center"><img src=data_image/boxplot_to_distribution_price_drivewheels.png></div>
 
+### Multivariate data plot
+
 <div align="center"><img src=data_image/matrix_scatter_plot_columns.png></div>
+
+### Correlation coefficient
 
 <div align="center"><img src=data_image/correlation_heatmap.PNG></div>
