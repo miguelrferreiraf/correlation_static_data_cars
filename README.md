@@ -2,6 +2,8 @@
 
 ## Basic data science
 
+<div align="center"><img src=data_image/vector-cars-collection-vehicles-flat-style_1284-44161.jpg width=50%></div>
+
 Hey, folks!
 
 What about some basic data science? In this small simple projects I demonstrate one of the basic concepts of data science, the correlation coefficient or Pearson correlation.
