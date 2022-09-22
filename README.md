@@ -1,4 +1,10 @@
-# correlation_static_data_cars
+# Analysing correlation betwenn data features
+
+## Basic data science
+
+Hey, folks!
+
+What about some basic data science? In this small simple projects I demonstrate one of the basic concepts of data science, the correlation coefficient or Pearson correlation.
 
 <div align="center"><img src=data_image/boxplot_car_price.png></div>
 
