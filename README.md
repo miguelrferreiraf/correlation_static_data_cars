@@ -33,9 +33,11 @@ sns.FacetGrid(data,height=5).map(sns.histplot,"height").add_legend()
 
 ### Multivariate analysis
 
+One of my visually favorites atributtes is the 3x3 multivariate plotting of feature correlations. 
+
 Consists in a analysis of several correlations; usually we define by multivariate when it's made with more than two variables.
 
-<div align="center"><img src=data_image/matrix_scatter_plot_columns.png></div>
+<div align="center"><img src=data_image/matrix_scatter_plot_columns.png><p>Charming, isn't?:heartbeat:</p></div>
 
 ### Correlation coefficient
 
