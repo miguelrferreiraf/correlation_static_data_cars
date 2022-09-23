@@ -10,6 +10,8 @@ Hey, folks!
 
 What about some basic data science? In this small simple projects I demonstrate one of the basic concepts of data science, the correlation coefficient or Pearson correlation.
 
+Go to [code](https://github.com/miguelrferreiraf/correlation_static_data_cars/blob/main/analysing_static_data_cars_CODIGO_FINALIZADO.ipynb)
+
 There are also some important line codes involving data cleaning that I think is very very important. Don't ignore it.
 
 Concepts approached by this code includes:
