@@ -37,7 +37,7 @@ One of my visually favorites atributtes is the 3x3 multivariate plotting of feat
 
 Consists in a analysis of several correlations; usually we define by multivariate when it's made with more than two variables.
 
-<div align="center"><img src=data_image/matrix_scatter_plot_columns.png><p>Charming, isn't?:heartbeat:</p></div>
+<div align="center"><img src=data_image/matrix_scatter_plot_columns.png><p><i>Charming, isn't?</i>:heartbeat:</p></div>
 
 ### Correlation coefficient
 
