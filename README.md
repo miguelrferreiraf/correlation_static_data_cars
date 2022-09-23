@@ -43,4 +43,4 @@ Consists in a analysis of several correlations; usually we define by multivariat
 
 Finnaly, the correlation coefficient allow us to plot all correlation among all features. 
 
-<div align="center"><img src=data_image/correlation_heatmap.PNG></div>
+<div align="center"><img src=data_image/correlation_heatmap.PNG><p><i>Probably the most advanced visual resource before data science<br>turns into machine learning</i></p></div>
