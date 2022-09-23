@@ -5,6 +5,7 @@
 <div align="center"><img src=data_image/vector-cars-collection-vehicles-flat-style_1284-44161.jpg width=50%></div>
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k6L19C4KtPZnLvsebqgkOyGMP7kHKL8H?usp=sharing)
 
 Hey, folks!
 
